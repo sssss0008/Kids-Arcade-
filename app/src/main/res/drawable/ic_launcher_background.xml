@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:color="#2E1065" android:offset="0.0" />
+                <item android:color="#4C1D95" android:offset="0.5" />
+                <item android:color="#6D28D9" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle playful arcade sparkles -->
+    <path
+        android:fillColor="#33FBBF24"
+        android:pathData="M24,20l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z" />
+    <path
+        android:fillColor="#3338BDF8"
+        android:pathData="M84,24l2.5,6l6,2.5l-6,2.5l-2.5,6l-2.5,-6l-6,-2.5l6,-2.5z" />
+    <path
+        android:fillColor="#33F43F5E"
+        android:pathData="M26,82l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z" />
+    <path
+        android:fillColor="#3334D399"
+        android:pathData="M82,80l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z" />
+</vector>

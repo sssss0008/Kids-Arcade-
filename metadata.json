@@ -1,0 +1,6 @@
+{
+  "name": "Kids Arcade",
+  "description": "Kids Arcade Mania - A colorful children's arcade adventure packed with mini-games, reflex challenges, daily missions, player levels, and achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
